@@ -38,3 +38,23 @@ This repository does not claim:
 These are identified as future work in the paper's limitations section.
 
 ## Repository Structure
+tc-paper/
+│
+├── README.md (this file)
+│
+├── paper/
+│ ├── TC.pdf
+│ └── README.md (paper metadata and citation)
+│
+└── LICENSE (CC BY 4.0)
+
+
+## Citation
+Fatima, M. (2026). Triangulation Collapse: How LLM-Mediated Search Removes
+the User's Last Line of Defense in High-Stakes Queries. Technical Report.
+https://doi.org/10.5281/zenodo.22182822
+
+
+## Contact
+
+Mohib Fatima · <mohib.fatima.edu@gmail.com> · [ORCID](https://orcid.org/0009-0009-4138-7698)
