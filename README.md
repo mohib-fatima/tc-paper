@@ -3,6 +3,7 @@
 Data for Section 6 of *Triangulation Collapse: How LLM-Mediated Search Removes the User's Last Line of Defense in High-Stakes Queries* (Fatima, 2026, v2).
 
 Paper (PDF): [TC.pdf](TC.pdf)
+
 Zenodo (all versions, always the latest): https://doi.org/10.5281/zenodo.22182821
 
 ## What this tests
