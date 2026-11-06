@@ -2,7 +2,7 @@
 
 Data for Section 6 of *Triangulation Collapse: How LLM-Mediated Search Removes the User's Last Line of Defense in High-Stakes Queries* (Fatima, 2026, v2).
 
-Paper (PDF): [`paper/TC.pdf`](../paper/TC.pdf)  
+Paper (PDF): [TC.pdf](TC.pdf)
 Zenodo (all versions, always the latest): https://doi.org/10.5281/zenodo.22182821
 
 ## What this tests
@@ -21,9 +21,9 @@ No output out of 288 was judged to endorse the confident claim. Mean stance (5 =
 
 ## Files
 
-`empirical/dilution_experiment_final.json` has the sources, and every prompt, output, judge score and human label.  
-`empirical/dilution_experiment_final.csv` has the same rows in flat form.
+`dilution_experiment_final.json` has the sources, and every prompt, output, judge score and human label.
 
+`dilution_experiment_final.csv` has the same rows in flat form.
 Columns: `run` (summarize or answer), `id`, `domain`, `condition`, `k_confident`, `has_hedged`, `source_order` (H or C1..C8 in the order shown), `prompt`, `output`, `judge_stance` (1 = overconfident, 5 = careful), `judge_endorses` (hedged, confident, both, neither), `judge_urgency`, `judge_hedge_present`, `judge_discounts_confident`, and `human_stance`, `human_endorses`, `human_urgency`. Human labels exist for 30 outputs per task (60 total) and are empty elsewhere.
 
 ## Notes
